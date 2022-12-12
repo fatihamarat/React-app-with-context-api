@@ -1,0 +1,25 @@
+
+.change-lang{
+    text-decoration-line: underline;
+}
+.container h3{
+    color: red;
+}
+
+body{
+    margin:0;
+}
+
+.container{
+    height: 100vh;
+}
+.dark{
+    background: black;
+}
+.dark *{
+    color: white;
+}
+.container button{
+    color: black;
+}
+
