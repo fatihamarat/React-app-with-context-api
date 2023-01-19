@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-app-with-context-api/static/css/main.0cc6bfee.css",
+    "main.js": "/React-app-with-context-api/static/js/main.c3501bac.js",
+    "index.html": "/React-app-with-context-api/index.html",
+    "main.0cc6bfee.css.map": "/React-app-with-context-api/static/css/main.0cc6bfee.css.map",
+    "main.c3501bac.js.map": "/React-app-with-context-api/static/js/main.c3501bac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cc6bfee.css",
+    "static/js/main.c3501bac.js"
+  ]
+}
